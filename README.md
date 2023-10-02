@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ankit Zanzmera and I'm a Machine Learning and Deep Learning Enthusiastic , from Surat, Gujarat, India </h2>
+<h2 align="left">Hi 👋! My name is <u>Ankit Zanzmera</u> and I'm a Machine Learning and Deep Learning Enthusiastic , from Surat, Gujarat, India </h2>
 
 ###
 

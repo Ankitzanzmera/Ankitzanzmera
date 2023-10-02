@@ -12,7 +12,8 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <div align="left">
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
